@@ -1,2 +1,6 @@
 # Task-4
-New Year Celebrations
+Welcome to New Year Celebreations:
+New Year Celebrations list:
+1. Games
+2. Dance
+3. Cake Cutting
